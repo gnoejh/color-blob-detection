@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/color-blob-detection.iml" filepath="$PROJECT_DIR$/.idea/modules/color-blob-detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary343/color-blob-detection.openCVLibrary343.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary343/color-blob-detection.openCVLibrary343.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVSamplecolorblobdetection/color-blob-detection.openCVSamplecolorblobdetection.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVSamplecolorblobdetection/color-blob-detection.openCVSamplecolorblobdetection.iml" />
+    </modules>
+  </component>
+</project>
