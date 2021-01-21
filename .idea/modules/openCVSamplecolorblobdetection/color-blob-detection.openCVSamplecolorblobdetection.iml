@@ -32,6 +32,9 @@
     <content url="file://$MODULE_DIR$/../../../openCVSamplecolorblobdetection">
       <sourceFolder url="file://$MODULE_DIR$/../../../openCVSamplecolorblobdetection/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../openCVSamplecolorblobdetection/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../openCVSamplecolorblobdetection/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../openCVSamplecolorblobdetection/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../openCVSamplecolorblobdetection/build/generated/res/resValues/debug" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../openCVSamplecolorblobdetection/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../openCVSamplecolorblobdetection/build" />
     </content>
